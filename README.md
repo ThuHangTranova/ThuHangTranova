@@ -6,7 +6,7 @@ My first-ever experience with coding dates back to 2013 when I experimented with
 <br>
 Fast forward to my university years, I encountered programming again, this time in the form of data analysis. It was during this period that I discovered my genuine interest in working with data—from data preparation to analysis, and particularly data visualization. I found immense satisfaction in transforming data into insightful and meaningful results. <br>
 <br>
-Driven by this newfound passion, I decided to complete two online programs focused on data analytics. The projects from both programs can be explored in my repositories. Feel free to take a look :) <br>
+Driven by this newfound passion, I decided to complete two online programs focused on data analytics. The projects from both programs can be explored in my repositories. Feel free to take a look ◕⩊◕ <br>
 
 <!--
 **ThuHangTranova/ThuHangTranova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
