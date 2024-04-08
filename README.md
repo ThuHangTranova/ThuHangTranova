@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Annie ₍˄·͈༝·͈˄*₎◞ ̑̑</h1>
+<h1 align="center">Hi there, I'm Annie ₍˄·͈༝·͈˄*₎◞ ̑̑</h1>
 <p align="center">
     <b>Welcome to my GitHub</b><br><br>
   
